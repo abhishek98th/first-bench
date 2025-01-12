@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+  }
+  
+  .MuiTypography-body1 {
+    font-size: 14px;
+    color: #cbd5e0;
+    cursor: pointer;
+  }
+  
+  .MuiTypography-body1:hover {
+    color: #fff;
+  }
+  
+  .MuiAppBar-root {
+    box-shadow: none;
+  }
+  
